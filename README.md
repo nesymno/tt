@@ -44,7 +44,7 @@ Usage: ./tikmeh [-profile | -info] [args...] <urls | usernames | ids>
 
 ### Download & Setup executable
 
-Go to releases — https://github.com/heilkit/tt/releases. Choose an executable that suits your system and have fun, 
+Go to releases — https://github.com/nesymno/tt/releases. Choose an executable that suits your system and have fun, 
 everything you need is packed in already.
 
 ## [Library] Example
@@ -53,7 +53,7 @@ everything you need is packed in already.
 package main
 
 import (
-	"github.com/heilkit/tt/tt"
+	"github.com/nesymno/tt/tt"
 	"log"
 	"time"
 )
@@ -86,5 +86,5 @@ func main() {
 ## [Library] go.mod
 
 ```
-	github.com/heilkit/tt v1.1.0
+	github.com/nesymno/tt v1.1.0
 ```

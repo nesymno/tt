@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/heilkit/tt/tt"
+	"github.com/nesymno/tt/tt"
 	"log/slog"
 	"os"
 )
